@@ -1,4 +1,4 @@
-# Boltwall-Lambda-Rust
+# Rust-Lambda-Boilerplate
 
 This repository contains the source code for a Rust-based AWS Lambda function. The function is designed to process events with a specific structure, as defined in the `Request` struct, and return a response in the form of a `Response` struct.
 
@@ -16,6 +16,7 @@ Ensure you have the following installed:
 - Rust programming language: [Install Rust](https://www.rust-lang.org/tools/install)
 - AWS CLI: [Install the AWS CLI](https://aws.amazon.com/cli/)
 - Cargo Lambda: Install cargo-lambda with `cargo install cargo-lambda`
+- Terraform: (https://formulae.brew.sh/formula/terraform)
 
 ### Building the Project
 
