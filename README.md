@@ -6,6 +6,10 @@ This repository contains the source code for a Rust-based AWS Lambda function. T
 
 Please be aware that the code in this repository is not production-ready. It is intended for development and testing purposes only. Users should exercise caution and perform thorough testing before considering it for a production environment.
 
+## Maintenance note
+
+Keep validation steps close to the change you are making so deployment smoke checks stay easy to repeat.
+
 ## Getting Started
 
 To get started with this project, clone the repository and ensure you have the Rust toolchain installed. Follow the steps below to set up your environment and begin using the Lambda function:
