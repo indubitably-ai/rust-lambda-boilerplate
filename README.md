@@ -9,6 +9,7 @@ Please be aware that the code in this repository is not production-ready. It is 
 ## Maintenance note
 
 Keep validation steps close to the change you are making so deployment smoke checks stay easy to repeat.
+Capture the exact deploy or validation command whenever a change depends on manual rollout steps.
 
 ## Getting Started
 
